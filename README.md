@@ -1,4 +1,4 @@
-![](https://unidao.fund/unidao_logo_light.png | width=64)
+![](https://unidao.fund/unidao_logo_64.png)
 
 # DAO Universe
 
