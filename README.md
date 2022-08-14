@@ -1,4 +1,4 @@
-<img src="https://github.com/Bodhi-DAO/Whitepaper/raw/master/images/bodhi_logo.png" width="120">
+<img src="https://github.com/Guru-Collective/Whitepaper/raw/master/images/logo_text.png" width="120">
 
 # Whitepaper
 
