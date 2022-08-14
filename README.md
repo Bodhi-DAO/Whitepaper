@@ -11,18 +11,18 @@
 ### Предпосылки для токенизации сообществ 
 ### ДАО как инструмент координации и мотивации
 
-## Концепция Bodhi DAO
-### Мотивация создания Bodhi DAO
-### Миссия Bodhi DAO
-### Ценности Bodhi DAO
-### Целевая аудитория Bodhi DAO
+## Концепция Guru Collective
+### Мотивация создания Guru Collective
+### Миссия Guru Collective
+### Ценности Guru Collective
+### Целевая аудитория Guru Collective
 
-## Обзор экосистемы Bodhi DAO
+## Обзор экосистемы Guru Collective
 ### Образовательная программа Bodhi Academy
 ### Эвент-экосистема Cryptreat
 ### Инвестиционный клуб Bodhi Ventures
 ### Медиа-площадка Bodhi Media
-### Акселератор Bodhi DAO
+### Акселератор Guru Collective
 
 ## Прочие положения
 
