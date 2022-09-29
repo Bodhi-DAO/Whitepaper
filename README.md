@@ -28,17 +28,17 @@ The Guru Collective community shares the ideas of mutual respect and mutual supp
 * [**Contributor**](#contributor) — A member of the Guru Collective community who shares its mission and values, and owns reputation tokens and/or liquidity tokens;
 * [**Community**](#community) — The Guru Collective community;
 * [**Organization Committee**](#organization-committee) — A group of Guru Collective members who take on the task of implementing operational events. The composition of the organizing committee can be changed by the community as part of the protocol management;
-* [**Экспертный комитет**](#экспертный-комитет) — группа участников Guru Collective,
-* [**Операционная деятельность**](#токен) — деятельность организационного комитета, обеспечивающяя достижение целей и реализацию миссии Guru Collective;
-* [**Управление протоколом (также governance)**](#токен) — комплекс процессов, включающий в себя, но не ограничивающийся:
-процессом распределения ликвидности протокола в различные инвестиционные стратегии;
-процессом внесения изменений в параметры протокола;
-процессом сопровождения операционной деятельности Guru Collective.
-* [**Голосование**](#voting) — процесс принятия решения в рамках ДАО, в котором участники могут отдать голос  за какое-либо решение, вынесенное на голосование сообщества. Результатом голосования является вариант, за который было отдано больше всего голосов, выраженных в количестве токенов на счету каждого участника, принявшего участие в голосовании
-Кумулятивное голосование — вид голосования, в котором число голосов, принадлежащих одному участнику, умножается на число выбираемых мест и распределяется произвольно между произвольным числом вариантов. Результатом голосования являются варианты, получившие наибольшее число голосов, выраженных в количестве токенов на счету каждого участника, принявшего участие в Голосовании
-* [**Параметры протокола**](#voting) —  набор параметров, определяющих процесс работы Guru Collective. Сообщество может проголосовать за внедрение новых параметров при условии принятия соотвествующего решения. По решению сообщества может быть назначен организационный комитет, избираемый голосованием
-* [**Решение**](#solution) — решение, принятое сообществом в рамках процесса управления протоколом и верифицированное в [блокчейне](#blockchain).
-Любое решение может быть вынесено только по голосованию сообщества, принятого в соответствии с регламентом процесса управления;
+* [**Expert Committee**](#expert-Committee) - A group of Guru Collective members;
+* [**Operations**](#token) - Events of the organizing committee that ensure the goals and mission of the Guru Collective are achieved;
+* [**Protocol Management (also governance)**](#token) Is a set of processes including, but not limited to:
+The process of allocating the liquidity of the protocol to various investment strategies;
+The process of making changes to the protocol parameters;
+The Guru Collective's operational support process.
+* [**Voting**](#voting) - A decision-making process within the DAO in which participants can vote for a decision submitted to a community vote. The result of a vote is the option for which the most votes were cast, expressed as the number of tokens in the account of each participant who took part in the vote;
+Cumulative voting — A type of voting in which the number of votes belonging to one participant is multiplied by the number of seats to be chosen and distributed randomly among an arbitrary number of options. The results of the voting are the options that receive the most votes, expressed as the number of tokens in the account of each participant who participated in the Voting;
+* [**Protocol Parameters**](#voting) - a set of parameters that determine how Guru Collective works. The community can vote for the implementation of new parameters, provided that the appropriate decision is made. By community decision, an organizing committee can be appointed, elected by vote;
+* [**Solution**](#solution) - A decision made by the community as part of the protocol management process and verified in [#blockchain](#blockchain);
+Any decision can only be made by a vote of the community, taken in accordance with the rules of the governance process;
 * [**Регламент процесса управления**](#voting) — документ, содержащий описание последовательности действий, необходимых для обеспечения максимально прозрачного процесса принятия решения, а такде внесения изменений в параметры протокола в рамках процесса управления протоколом
 * [**Вознаграждение за управление протоколом**](#voting) — каждый участник вправе запросить вознаграждение в виде токенов репутации и/или токенов ликвидности за осуществление операционной деятельности в пользу ДАО. Владельцы токенов репутации могут проголосовать за начисление токенов репутации другим участникам сообщества в рамках регулярной инфляции репутации. 
 Владельцы токенов репутации могут 
