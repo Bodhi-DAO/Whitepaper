@@ -30,7 +30,7 @@ The Guru Collective community shares the ideas of mutual respect and mutual supp
 * [**Organization Committee**](#organization-committee) — A group of Guru Collective members who take on the task of implementing operational events. The composition of the organizing committee can be changed by the community as part of the protocol management;
 * [**Expert Committee**](#expert-Committee) - A group of Guru Collective members;
 * [**Operations**](#token) - Events of the organizing committee that ensure the goals and mission of the Guru Collective are achieved;
-* [**Protocol Management (also governance)**](#token) Is a set of processes including, but not limited to:
+* [**Protocol Management (also governance)**](#token) is a set of processes including, but not limited to:
 The process of allocating the liquidity of the protocol to various investment strategies;
 The process of making changes to the protocol parameters;
 The Guru Collective's operational support process.
