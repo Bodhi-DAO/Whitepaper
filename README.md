@@ -59,7 +59,7 @@ x= Total emissions 0.05
 The community has the right to dispose of the issue as it sees fit, either by redistributing tokens among current participants or by transferring tokens to new participants who have made a significant contribution to the community;
 * [**Reputation Distribution**](#reputation-) - At the end of the sprint, participants can vote on the distribution of tokens resulting from reputation inflation, depending on the participants' contribution to the community. Participants who have done the work can put their candidacy to a vote, attaching a report on the work done and presenting it at the status-call at the end of the sprint. A cumulative vote will be formed based on the results of the status call, and a fresh token issue will be distributed based on the finished results;
 * [**Coordinator**](#coordinator) - A community member who provides task setting as well as task control within a single sprint. According to the results of the status-call the community can make an assessment of the coordinator's effectiveness, distributing to him/her a reward as part of the assessment of his/her effectiveness in the cumulative voting;
-* [**Emergency DAO shutdown**](#dao-shutdown) - the process of emergency shutdown of all DAO activity in order to keep it functioning properly and prevent unauthorized operations.
+* [**Emergency DAO shutdown**](#dao-shutdown) - The process of emergency shutdown of all DAO activity in order to keep it functioning properly and prevent unauthorized operations.
 
 ## DeFi ecosystem review 
 
