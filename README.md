@@ -8,15 +8,15 @@
 * [**Blockchain**](#blockchain) — A decentralized database with a cryptographic guarantee of information immutability;
 * [**Token**](#token) — A unit of account whose transaction information is stored in the [Blockchain](#blockchain); 
 * [**Smart Contract**, **DeFi Protocol**](#smart-contract) — DApp (decentralized application) that uses [blockchain](#blockchain) as an execution environment and operates with tokens;
-* [**NFT**](#nft) — частный случай смарт-контракта, используемого для реализации невзаимозаменяемого токена — цифрового сертификата о каком-либо праве на какой-либо актив или услугу цифрового, либо реального мира; 
-* [**DAO**](#dao) — организация, представленная правилами, закодированными в виде смарт-контрактов, являющаяся прозрачной, контролируемой заинтересованными сторонами и не подверженной влиянию центрального органа власти;
-* [**Web3**](#web3) — следующая итерация эволюции Всемирной паутины — на основе [блокчейна](#blockchain), которая включает в себя такие концепции, как децентрализация и экономика на основе токенов;
-* [**Guru Collective (далее ДАО)**](#gurucollective) — бизнес-сообщество единомышленников, объединенных идеей исследования, изучения и внедрения блокчейн-технологий таких как [Web3](#web3) и разделяющих общие ценности и миссию сообщества;
-* [**Ценности Guru Collective**](#dao-values) — основополагающие факторы сообщества Guru Collective, которые разделяют участники сообщества
-* [**Сообщество Guru Collective**](#community) принимает в свои ряды только лучших профессионалов своего дела, чтобы сделать их выдающимися;
-Сообщество Guru Collective придерживается максимальной прозрачности и открытоски как в организационных, так и в бизнес-процессах;
-Сообщество Guru Collective не разделяет участников по каким-либо качествам и свойствам. Единственный критерий, оцениваемый сообществом — профессионализм и репутация;
-Сообщество Guru Collective разделяет идеи взаимоуважения и взаимоподдержки. Мы уважаем друг-друга и помогаем достичь как общие, так и частные цели!
+* [**NFT**](#nft) — A special case of a smart contract used to implement a Non-fungible token - a digital certificate of some right to some asset or service of the digital or real world; 
+* [**DAO**](#dao) — An organization represented by rules encoded in the form of smart contracts, that is transparent, controlled by stakeholders, and not influenced by a central authority;
+* [**Web3**](#web3) — The next iteration of the evolution of the World Wide Web is based on [blockchain](#blockchain), which includes concepts such as decentralization and the token-based economy;
+* [**Guru Collective (Further FAO)**](#gurucollective) —A business community of associates united by the idea of research, study and implementation of blockchain technologies such as [Web3](#web3) and sharing common values and community mission;
+* [**The Guru Collective values**](#dao-values) — The foundational factors of the Guru Collective community that are shared by community members;
+* [**The Guru Collective Community**](#community) Takes only the best professionals in their field to make them outstanding;
+The Guru Collective community is committed to maximum transparency and openness in both organizational and business processes;
+The Guru Collective community does not divide its members by any qualities or characteristics. The only criterion evaluated by the community is professionalism and reputation;
+The Guru Collective community shares the ideas of mutual respect and mutual support. We respect each other and help to achieve both common and private goals!
 * [**Миссия Guru Collective**](#mission) — повышение осведомленности о децентрализованных технологиях, увеличение социального влияния сообщества, а также рост капитализации участников за счет повышения собственной экспертизы, а также при помощи профессионального сообщества. 
 * [**Протокол Guru Collective (далее Протокол)**](#[protocol]) — комплекс смарт-контрактов, используемый для координации сообщества Guru Collective, использующий [блокчейн](#blockchain) и оперирующий включая (но не ограничиваясь перечисленным далее) токенами ликвидности, токенами репутации, а также NFT для реализации инвестиционных стратегий, а также деятельности по управлению протоколом;
 * [**Guru NFT**](#gurunft) — невзаимозаменяемый токен, выступающий в качестве «карты доступа», открывающей владельцу доступ к экосистеме Guru Collective в течение всего срока подписки. Может существовать в различных форматах, в зависимости от уровня доступа.
