@@ -6,8 +6,8 @@
 ## Glossary
 
 * [**Blockchain**](#blockchain) — A decentralized database with a cryptographic guarantee of information immutability;
-* [**Token**](#token) — a unit of account whose transaction information is stored in the [Blockchain](#blockchain); 
-* [**Smart Contract**, **DeFi Protocol**](#smart-contract) — децентрализованное программное приложение (DApp, decentralized application), использующее [блокчейн](#blockchain) в качестве среды исполнения и оперирующее токенами;
+* [**Token**](#token) — A unit of account whose transaction information is stored in the [Blockchain](#blockchain); 
+* [**Smart Contract**, **DeFi Protocol**](#smart-contract) — DApp (decentralized application) that uses [blockchain](#blockchain) as an execution environment and operates with tokens;
 * [**NFT**](#nft) — частный случай смарт-контракта, используемого для реализации невзаимозаменяемого токена — цифрового сертификата о каком-либо праве на какой-либо актив или услугу цифрового, либо реального мира; 
 * [**DAO**](#dao) — организация, представленная правилами, закодированными в виде смарт-контрактов, являющаяся прозрачной, контролируемой заинтересованными сторонами и не подверженной влиянию центрального органа власти;
 * [**Web3**](#web3) — следующая итерация эволюции Всемирной паутины — на основе [блокчейна](#blockchain), которая включает в себя такие концепции, как децентрализация и экономика на основе токенов;
